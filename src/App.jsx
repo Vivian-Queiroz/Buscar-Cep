@@ -1,9 +1,9 @@
-import BuscaCep from "./BuscarCep"
+import BuscarCep from "./BuscarCep"
 
 function App() {
   return (
     <div>
-      <BuscaCep />
+      <BuscarCep />
     </div>
   );
 }
