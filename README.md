@@ -23,7 +23,7 @@ Este componente foi desenvolvido para realizar buscas de endereços de forma sim
 ## Como utilizar
 
 1. Clone o repositório:
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone https://github.com/Vivian-Queiroz/Buscar-Cep.git
 
 2. Instale as dependências:
    npm install
