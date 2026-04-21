@@ -32,7 +32,7 @@ Este componente foi desenvolvido para realizar buscas de endereços de forma sim
    npm run dev
 
 
-# Lógica de Implementação
+## Lógica de Implementação
 - Limpeza de dados: O componente utiliza o padrão /\D/g para garantir que apenas números sejam processados pelo estado interno.
 
 - Formatação visual: A função de máscara separa a exibição visual do valor real armazenado, melhorando a experiência do utilizador sem comprometer a lógica da API.
